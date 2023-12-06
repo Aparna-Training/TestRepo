@@ -1,5 +1,6 @@
 # TestRepo
 Using this repo for learning purpose
 **Testing github features**  
-craeting repo, file and committing
+craeting repo, file and committing  
+*Adding in new text from a branch repo*
 
